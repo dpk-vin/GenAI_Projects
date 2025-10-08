@@ -61,7 +61,7 @@ def compose_response_llm(user_query: str, hotels: list, itinerary: dict):
 
 ---
 
-## 🧪 Challenges Faced
+##  Challenges Faced
 - Model compatibility issues (`Invalid value for model` errors).
 - Integration of moderation API with LLM-based chatbot.
 - Handling 10K+ dataset efficiently.
